@@ -1,0 +1,13 @@
+{
+    "call_id": "16430220",
+    "call_date_folder": "21.07.2024",
+    "date": "2024-07-21T12:30:45.000",
+    "client_name": "client",
+    "direction_outgoing": true,
+    "language": "Ru-ru",
+    "operator_name": "Иванов Иван Иванович",
+    "operator_id": "Иванов_Иван_Иванович",
+    "client_id": "+79001234567",
+    "call_duration_parsed_sec": 135,
+    "call_duration_original_str": "2 мин. 15 сек."
+}
